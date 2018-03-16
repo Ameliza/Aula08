@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercicio-abstracao.iml" filepath="$PROJECT_DIR$/.idea/modules/exercicio-abstracao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercicio-abstracao_main.iml" filepath="$PROJECT_DIR$/.idea/modules/exercicio-abstracao_main.iml" group="exercicio-abstracao" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exercicio-abstracao_test.iml" filepath="$PROJECT_DIR$/.idea/modules/exercicio-abstracao_test.iml" group="exercicio-abstracao" />
+    </modules>
+  </component>
+</project>
